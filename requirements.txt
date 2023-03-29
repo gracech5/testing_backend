@@ -1,0 +1,14 @@
+matplotlib
+six
+opencv_contrib_python
+scipy
+pytesseract
+numpy
+tensorflow
+Cython
+easydict
+ipython
+object-detection
+Pillow
+protobuf==3.12.4
+PyYAML
